@@ -8,5 +8,5 @@ function forLoop(array) {
 fumcton whileLoop(n) {
   var i = n;
   while (i >= 0);
-  console
+  
 }
